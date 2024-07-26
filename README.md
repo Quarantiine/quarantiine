@@ -10,7 +10,6 @@ Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in *
 
 ## My Next Projects
 - **QuickStudy**: Updating and integrating AI into the web app [Check it out!](https://quickstudy.vercel.app)
-- **Portfolio**: A new portfolio using AI, to make things more interesting 
 - **GloboTalk**: A web application that allows people with language barriers to speak fluently to each other using AI
 
 ## Best Projects Right Now

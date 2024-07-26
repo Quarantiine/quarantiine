@@ -40,5 +40,6 @@ Feel free to reach out to me for collaborations, discussions, or just a friendly
 - **Email**: danielward.occ@gamil.com
 - **LinkedIn**: https://www.linkedin.com/in/daniel-ward-071010205/
 - **GitHub**: https://github.com/Quarantiine
+- **Resume**: https://docs.google.com/document/d/1GEUI2w3OEB9uQwyUBzJdCSWoKHwChXT0L_My82fNKa8/edit?usp=sharing
 
 Thank you for visiting my profile! Let's create something amazing together! 🚀

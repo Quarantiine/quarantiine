@@ -4,7 +4,7 @@
 
 Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing**, **robotics/computer-engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**. I am in college at the moment gaining the skills needed to create impact in this world.
 
-## Best Projects Right
+## Best Projects Right Now
 
 I have experience in building diverse web applications and real-world projects. Some of my notable works include:
 

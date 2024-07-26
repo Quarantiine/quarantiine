@@ -1,12 +1,8 @@
-Creating an effective and engaging README for your profile is essential for showcasing your skills, projects, and interests. A well-crafted README can help visitors quickly understand who you are, what you do, and what they can expect from your work. Here's a suggested structure and content for your README.md:
-
----
-
 # Welcome to Daniel's Profile! 🌟
 
 ## About Me
 
-Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development** **quantum computing**, **robotics/computer engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**. I am in college at the moment gaining the skills needed to create impact in this world.
+Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing**, **robotics/computer-engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**. I am in college at the moment gaining the skills needed to create impact in this world.
 
 ## Best Projects Right
 

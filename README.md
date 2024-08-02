@@ -24,7 +24,7 @@ I have experience in building diverse web applications and real-world projects. 
 
 - **Frontend**: React, JavaScript, TypeScript, Next.js, Tailwind CSS, and more
 - **Backend & Hosting**: Firebase, Vercel
-- **AI & APIs**: Gemini API, and more experience with APIs
+- **AI & APIs**: Gemini API, and more experience with other APIs
 - **Tools & Platforms**: NPM, Git, Figma
 - **Other**: Arduino projects in C++
 

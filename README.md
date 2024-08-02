@@ -28,9 +28,17 @@ I have experience in building diverse web applications and real-world projects. 
 - **Tools & Platforms**: NPM, Git, Figma
 - **Other**: Arduino projects in C++
 
+## What Technical Skills I'm Learning Next
+- React Native
+- Back End Development and APIs on freeCodeCamp.org
+- Node.js
+- Express
+- SQL Language
+- Supabase (Built on PostgreSQL)
+
 ## Future Endeavors
 
-I aim to delve deeper into **robotics** as I continue my studies. I'm also interested in exploring how quantum algorithms can help create solutions for robots to maneuver and see in this world
+I aim to delve deeper into **robotics** as I continue my studies. I'm also interested in exploring how quantum algorithms can help create solutions for robots to maneuver and see in this world. And lastly, I want to continue to sharpen my web developement skills
 
 ## Get in Touch
 

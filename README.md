@@ -18,7 +18,7 @@ I have experience in building diverse web applications and real-world projects. 
 
 - **Listology**: An advanced AI-powered to-do list management tool that helps users organize their lives. It features AI-driven task difficulty assessment, grammatical correction, and a chatbot powered by Gemini AI for personalized assistance. [Check it out!](https://listology.vercel.app)
 
-- **Studying Web Application**: Similar to Quizlet, this app allows users to create flashcards, quizzes, and notes for any subject. [Check it out!](https://quickstudy.vercel.app)
+- **QuickStudy**: Similar to Quizlet, this app allows users to create flashcards, quizzes, and notes for any subject. [Check it out!](https://quickstudy.vercel.app)
 
 ## Technical Skills
 

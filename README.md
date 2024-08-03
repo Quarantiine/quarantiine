@@ -34,7 +34,6 @@ I have experience in building diverse web applications and real-world projects. 
 
 ## What Technical Skills I'm Learning Next
 - React Native
-- Back End Development and APIs on freeCodeCamp.org
 - Node.js
 - Express
 - SQL Language

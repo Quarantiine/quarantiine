@@ -28,11 +28,11 @@ I have experience in building diverse web applications and real-world projects. 
 - **Other**: Arduino projects in C++
 
 ## What Technical Skills I'm Learning Next
-- React Native
 - Node.js
 - Express
 - SQL Language
 - Supabase (Built on PostgreSQL)
+- React Native
 
 ## Future Endeavors
 

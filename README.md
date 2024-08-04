@@ -2,14 +2,13 @@
 
 ## About Me
 
-Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing**, **robotics/computer-engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**. I am in college at the moment gaining the skills needed to create impact in this world.
+Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing**, **robotics/computer-engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**.
 
 ## What I'm working on Now
 
 - **Listology**: [Check it out!](https://listology.vercel.app)
 
 ## My Next Projects
-- **QuickStudy**: Integrate Gemini API into it so users will be able to generate flashcards with AI 
 - **GloboTalk**: A web application that allows people with language barriers to speak fluently to each other using AI
 
 ## Best Projects Right Now
@@ -19,10 +18,6 @@ I have experience in building diverse web applications and real-world projects. 
 - **Listology**: An advanced AI-powered to-do list management tool that helps users organize their lives. It features AI-driven task difficulty assessment, grammatical correction, and a chatbot powered by Gemini AI for personalized assistance.
   - [Listology Web Application](https://listology.vercel.app)
   - [Demo Video](https://youtu.be/JToXJPwBWj4)
-
-- **QuickStudy**: Similar to Quizlet, this app allows users to create flashcards, quizzes, and notes for any subject.
-  - [QuickStudy Web Application](https://quickstudy.vercel.app)
-  - [Demo Video](https://youtu.be/OHjuUjUdc8I?si=kJXiQ6Xthaw2Ch_H)
 
 ## Technical Skills
 

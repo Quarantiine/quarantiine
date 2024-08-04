@@ -9,7 +9,7 @@ Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in *
 - **Listology**: [Check it out!](https://listology.vercel.app)
 
 ## My Next Projects
-- **GloboTalk**: A web application that allows people with language barriers to speak fluently to each other using AI
+- **GlobaTalk**: A web application that allows people with language barriers to speak fluently to each other using AI
 
 ## Best Projects Right Now
 

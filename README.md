@@ -31,7 +31,6 @@ I have experience in building diverse web applications and real-world projects. 
 - Node.js
 - Express
 - SQL Language
-- Supabase (Built on PostgreSQL)
 - React Native
 
 ## Future Endeavors

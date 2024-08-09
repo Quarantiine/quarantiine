@@ -28,9 +28,6 @@ I have experience in building diverse web applications and real-world projects. 
 - **Other**: Arduino projects in C++
 
 ## What Technical Skills I'm Learning Next
-- Node.js
-- Express
-- SQL Language
 - React Native
 
 ## Future Endeavors

@@ -29,6 +29,7 @@ I have experience in building diverse web applications and real-world projects. 
 
 ## What Technical Skills I'm Learning Next
 - React Native
+- MongoDB
 - SQLite
 
 ## Future Endeavors

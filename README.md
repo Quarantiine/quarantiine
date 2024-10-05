@@ -2,14 +2,14 @@
 
 ## About Me
 
-Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing**, **robotics/computer-engineering**, and **ethical hacking**. I believe that a solid foundation in computer engineering will enhance my understanding and skills in software and hardware technologies like **machine learning**, **arduinos**, **AI**, **deep learning**, and **computer vision**.
+Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing** and, **ethical hacking**.
 
 ## What I'm working on Now
 
-- **Listology**: [Check it out!](https://listology.vercel.app)
+- **ETM Foundation Main Website**: A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation.
 
 ## My Next Projects
-- **GlobaTalk**: A web application that allows people with language barriers to speak fluently to each other using AI
+- **ETMF Academy**: A web application that allows people learn and empower their mindset with the help of AI.
 
 ## Best Projects Right Now
 
@@ -28,13 +28,14 @@ I have experience in building diverse web applications and real-world projects. 
 - **Other**: Arduino projects in C++
 
 ## What Technical Skills I'm Learning Next
-- React Native
 - MongoDB
-- SQLite
+- Node.js
+- Express.js
+- Cloudflare Server
 
 ## Future Endeavors
 
-I aim to delve deeper into **robotics** as I continue my studies. I'm also interested in exploring how quantum algorithms can help create solutions for robots to maneuver and see in this world. And lastly, I want to continue to sharpen my web developement skills
+I aim to delve deeper into **quantum computing** as I continue my studies. I'm also interested in exploring how quantum algorithms and other things related to quantum computing can help create software solutions to better help humanity and lastly, I want to continue to sharpen my web developement skills.
 
 ## Get in Touch
 

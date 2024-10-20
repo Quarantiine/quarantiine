@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Daniel, a passionate **Front-end Web Developer** with a interest in **web development**, **quantum computing** and, **ethical hacking**.
+Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web development** and **quantum computing**.
 
 ## What I'm working on Now
 

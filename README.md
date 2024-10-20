@@ -31,7 +31,7 @@ I have experience in building diverse web applications and real-world projects. 
 - MongoDB
 - Node.js
 - Express.js
-- Cloudflare Server
+- Cloudflare
 
 ## Future Endeavors
 

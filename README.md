@@ -2,13 +2,14 @@
 
 ## About Me
 
-Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web development** and **quantum computing**.
+Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web development**, **AI**, and **quantum computing**.
 
 ## What I'm working on Now
 
 - **ETM Foundation Main Website**: A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation.
-
+  
 ## My Next Projects
+- **Zhyra AI**: An AI assitant for the ETM Foundation. Zhyra AI will be implemented everywhere that needs her assistant
 - **ETMF Academy**: A web application that allows people learn and empower their mindset with the help of AI.
 
 ## Best Projects Right Now
@@ -22,8 +23,8 @@ I have experience in building diverse web applications and real-world projects. 
 ## Technical Skills
 
 - **Frontend**: React, JavaScript, TypeScript, Next.js, Tailwind CSS, and more
-- **Backend & Hosting**: Firebase, Vercel
-- **AI & APIs**: Gemini API, and more experience with other APIs
+- **Backend & Hosting**: Firebase, Vercel, and Cloudflare
+- **AI & APIs**: Gemini, ChatGPT, and more experience with other APIs
 - **Tools & Platforms**: NPM, Git, Figma
 - **Other**: Arduino projects in C++
 
@@ -31,11 +32,10 @@ I have experience in building diverse web applications and real-world projects. 
 - MongoDB
 - Node.js
 - Express.js
-- Cloudflare
 
 ## Future Endeavors
 
-I aim to delve deeper into **quantum computing** as I continue my studies. I'm also interested in exploring how quantum algorithms and other things related to quantum computing can help create software solutions to better help humanity and lastly, I want to continue to sharpen my web developement skills.
+My goal is to delve deeper into **quantum computing** and **AI** with a focus on leveraging quantum algorithms and other quantum computing advancements to develop software solutions that can better serve humanity. Additionally, I aim to harness AI to build software tools requiring minimal manual input, enhancing effectiveness and efficiency in people’s daily lives. Through these pursuits, I hope to contribute to creating transformative technologies that empower individuals and drive meaningful impact.
 
 ## Get in Touch
 
@@ -43,7 +43,5 @@ Feel free to reach out to me for collaborations, discussions, or just a friendly
 
 - **Email**: danielward.occ@gamil.com
 - **LinkedIn**: https://www.linkedin.com/in/daniel-ward-071010205/
-- **GitHub**: https://github.com/Quarantiine
-- **Resume**: https://docs.google.com/document/d/1GEUI2w3OEB9uQwyUBzJdCSWoKHwChXT0L_My82fNKa8/edit?usp=sharing
 
-Thank you for visiting my profile! Let's create something amazing together! 🚀
+Thank you for visiting my profile! Stay tuned for the exciting projects I’m working on to drive innovation and make a positive impact! 🚀

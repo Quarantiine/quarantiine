@@ -6,7 +6,7 @@ Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web 
 
 ## What I'm working on Now
 
-- **ETM Foundation Main Website**: A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation. [Check it out!][https://etmfoundation.com]
+- **ETM Foundation Main Website**: A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation. [Check it out!](https://etmfoundation.com)
   
 ## My Next Projects
 - **Zhyra AI**: An AI assitant for the ETM Foundation. Zhyra AI will be implemented everywhere that needs her assistant

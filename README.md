@@ -17,7 +17,7 @@ Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web 
 I have experience in building diverse web applications and real-world projects. Some of my notable works include:
 
 - **Listology**: An advanced AI-powered to-do list management tool that helps users organize their lives. It features AI-driven task difficulty assessment, grammatical correction, and a chatbot powered by Gemini AI for personalized assistance.
-  - [Listology Web Application](https://listology.vercel.app)
+  - [Listology Web Application](https://listology.vercel.app/tutorials)
   - [Demo Video](https://youtu.be/JToXJPwBWj4)
 
 ## Technical Skills

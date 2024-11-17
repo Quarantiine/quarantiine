@@ -30,6 +30,7 @@ I have experience in building diverse web applications and real-world projects. 
 
 ## What Technical Skills I'm Learning Next
 - MongoDB
+- Prompt Engineering
 - Node.js
 - Express.js
 

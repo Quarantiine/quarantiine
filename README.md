@@ -23,8 +23,8 @@ I have experience in building diverse web applications and real-world projects. 
 ## Technical Skills
 
 - **Frontend**: React, JavaScript, TypeScript, Next.js, Tailwind CSS, and more
-- **Backend & Hosting**: Firebase, Vercel, and Cloudflare
-- **AI & APIs**: Gemini, ChatGPT, and more experience with other APIs
+- **Backend & Hosting**: Firebase, Vercel, and MongoDB Atlas
+- **AI & APIs**: Gemini AI, ChatGPT, and more experience with other APIs
 - **Tools & Platforms**: NPM, Git, Figma
 - **Other**: Arduino projects in C++
 

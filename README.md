@@ -10,6 +10,7 @@ Hello! I'm Daniel, a passionate **Software Developer** with a interest in **web 
   
 ## My Next Projects
 - **ETMF Academy**: A web application that allows people learn and empower their mindset with the help of AI.
+- **AI Assitant**: A GenAI model designed to help with large and complex coding projects seamlessly
 
 ## Best Projects Right Now
 

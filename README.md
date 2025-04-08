@@ -73,7 +73,7 @@ I have experience in building diverse web applications and real-world projects. 
 
 ### Future Endeavors
 
-My goal is to delve deeper into **quantum computing** and **AI** with a focus on leveraging quantum algorithms and other quantum computing advancements to develop software solutions that can better serve humanity. Additionally, I aim to harness AI to build software tools requiring minimal manual input, enhancing effectiveness and efficiency in peopleâ€™s daily lives. Through these pursuits, I hope to contribute to creating transformative technologies that empower individuals and drive meaningful impact.
+My goal is to delve deeper into **quantum computing** and **AI** with a focus on leveraging quantum algorithms and other quantum computing advancements to develop software solutions that can better serve humanity. Additionally, I aim to harness AI to build software tools requiring minimal manual input, enhancing effectiveness and efficiency in people daily lives. Through these pursuits, I hope to contribute to creating transformative technologies that empower individuals and drive meaningful impact.
 
 ---
 

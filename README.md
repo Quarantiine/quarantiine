@@ -1,4 +1,4 @@
-## Daniel's Profile! ðŸŒŸ
+## Daniel's Profile!
 
 ### About Me
 
@@ -86,4 +86,4 @@ Feel free to reach out to me for collaborations, discussions, or just a friendly
 
 ---
 
-Thank you for visiting my profile! Stay tuned for the exciting projects Iâ€™m working on to drive innovation and make a positive impact! ðŸš€
+Thank you for visiting my profile! Stay tuned for the exciting projects working on to drive innovation and make a positive impact! ðŸš€

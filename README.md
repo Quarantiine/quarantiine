@@ -81,7 +81,7 @@ My goal is to delve deeper into **quantum computing** and **AI** with a focus on
 
 Feel free to reach out to me for collaborations, discussions, or just a friendly chat!
 
-- **Email**: danielward.occ@gamil.com
+- **Email**: danielward.occ@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/daniel-ward-071010205/
 
 ---

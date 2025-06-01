@@ -6,16 +6,6 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 ### What I'm Currently Working On
 
-#### Minovative Mind
-
-- Integrates Google's powerful AI models, providing core AI-Agent capabilities, and enables coding using natural language.
-  - [Coming Soon](https://www.minovativemind.dev/)
- 
-#### ETMF Academy
-
-- A web application that allows people to learn and empower their mindset with the help of AI.
-  - [Coming Soon]()
-
 #### ETM Foundation Main Website
 
 - A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation.

@@ -8,7 +8,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 #### Minovative Mind
 
-- Next.js application that provides AI-powered code analysis and interactive repository mapping deeply integrated with GitHub.
+- Integrates Google's powerful AI models, providing core AI-Agent capabilities, and enables coding using natural language.
   - [Coming Soon](https://www.minovativemind.dev/)
  
 #### ETMF Academy

@@ -4,16 +4,9 @@
 
 Hello! I'm Daniel, a professional **Software Developer** with an interest in **web development**, **AI**, and **quantum software development**.
 
-### What I'm Currently Working On
-
-#### ETM Foundation Main Website
-
-- A website that encompasses the digital ecosystem of the Empowerment Through Mindset Foundation.
-  - [Check it out!](https://etmfoundation.com)
-
 ### Technical Skills
 
-- I know how to use an AI-Agent tool I built myself, to build anything
+- I know how to use an AI-Agent tool I built myself, to build anything. This tool will compete with the best world-class AI-Agent dev tools on the market
 
 ### Future Endeavors
 

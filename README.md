@@ -13,7 +13,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 ### Technical Skills
 
-- I know how to use Minovative Mind (An AI-Agent tool I built myself) to build almost anything
+- I know how to use an AI-Agent tool I built myself, to build anything
 
 ### Future Endeavors
 

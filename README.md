@@ -18,9 +18,3 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 ### Future Endeavors
 
 My goal is to deepen my expertise in quantum software development, and with AI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
-
-### Get In Touch
-
-Feel free to reach out to me for collaborations, discussions, or just a friendly chat!
-
-- **LinkedIn**: https://www.linkedin.com/in/daniel-ward-071010205/

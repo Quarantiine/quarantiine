@@ -6,7 +6,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 ### Technical Skills
 
-- I know how to use an AI-Agent tool I built myself, to build anything. This tool will compete with the best world-class AI-Agent dev tools on the market
+- I’ve developed my own AI agent tool, which I know how to leverage to build virtually anything. It’s designed to compete head-to-head with the top-tier, world-class AI agent development platforms on the market.
 
 ### Future Endeavors
 

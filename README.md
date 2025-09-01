@@ -10,4 +10,8 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 ### Future Endeavors
 
-My goal is to deepen my expertise in quantum software development, and with AI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
+My goal is to deepen my expertise in quantum machine learning, and with GenAI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
+
+What to message me:
+Email: danielward.occ@gmail.com
+LinkedIn: https://www.linkedin.com/in/daniel-ward-071010205/

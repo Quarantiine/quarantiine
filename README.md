@@ -6,7 +6,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **W
 
 ### Technical Skills
 
-- I’ve developed my own AI agent tool called Minovative Mind, which I leverage to build virtually anything. My AI Agent [Minovative Mind](https://github.com/Minovative-Technologies/minovative-mind)
+- I’ve developed my own AI agent tool called Minovative Mind, which I leverage to build virtually anything. My AI Agent [Minovative Mind](https://marketplace.visualstudio.com/items?itemName=MinovativeTechnologies.minovative-mind-vscode)
 
 ### Future Endeavors
 

@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello! I'm Daniel, a professional **Software Developer** with an interest in **web development**, **AI**, and **quantum software development**.
+Hello! I'm Daniel, a professional **Software Developer** with an interest in **Web Development**, **Machine Learning**, **GenAI**, and **Quantum Machine Learning**.
 
 ### Technical Skills
 
@@ -10,7 +10,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **w
 
 ### Future Endeavors
 
-My goal is to deepen my expertise in quantum machine learning, and with GenAI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
+My goal is to deepen my expertise in ML & QML, and with GenAI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
 
 Want to message me:
 - Email: danielward.occ@gmail.com

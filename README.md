@@ -4,9 +4,8 @@
 
 Hello! I'm Daniel, a professional **Software Developer** with an interest in **Web Development**, **Machine Learning**, **GenAI**, **Quantum Machine Learning**, and **Quantum Computing**.
 
-### Technical Skills
-
 - I’ve developed my own AI agent tool called Minovative Mind, which I leverage to build virtually anything. My AI Agent [Minovative Mind](https://marketplace.visualstudio.com/items?itemName=MinovativeTechnologies.minovative-mind-vscode)
+- Pursuing a bachelors degree with a focus on Machine Learning
 
 ### Future Endeavors
 

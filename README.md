@@ -9,7 +9,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **W
 
 ### Future Endeavors
 
-My goal is to deepen my expertise in ML, QML, QC, and with GenAI, to build innovative and efficient solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
+My career goals is to deepen my expertise in ML, QML, and with GenAI, to build innovative solutions. Through these pursuits, I aim to contribute to the tech industry to empower people and create lasting impact with technology.
 
 Want to message me:
 - Email: danielward.occ@gmail.com

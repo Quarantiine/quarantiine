@@ -7,7 +7,7 @@ Hello! I'm Daniel, a professional **Software Developer** with an interest in **W
 ### Projects
 
 - I’ve developed my own AI agent tool called Minovative Mind, which I leverage to build virtually anything. My AI Agent [Minovative Mind](https://www.minovativemind.dev/)
-- I’ve developed a AI powered calendar/task management system. EffortList AI is an autonomous productivity system where Omni organizes your life with almost no input—creating tasks, prioritizing them, scheduling them, adjusting them, and maintaining order in the background while you simply live. [Website](https://effortlist.io/)
+- I’ve developed a AI powered calendar/task management system. EffortList AI is an autonomous productivity system where Omni organizes your life with almost no input—creating tasks, prioritizing them, scheduling them, adjusting them, and maintaining order in the background while you simply live. [EffortList AI](https://effortlist.io/)
 
 
 ### Future Endeavors

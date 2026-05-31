@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello! I'm Daniel, a professional **Software Developer** with an interest in **Web Development**, **Machine Learning**, **GenAI**, **Quantum Machine Learning**, and **Quantum Computing**.
+Hello! I'm Daniel, a professional **Software Developer** with an interest in **Web Development**, **Quantum Computing**, and **GenAI**.
 
 ### Projects
 

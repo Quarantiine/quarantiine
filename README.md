@@ -10,8 +10,8 @@ I am a software developer and AI application builder specializing in multi-agent
 
 **[View Minovative Mind](https://www.minovativemind.dev/)** -
 An autonomous AI agent CLI built using a wave-based, multi-agent execution architecture with deterministic verification loops, allowing it to reliably engineer very complex software, including:
-* A [pure-Python Symbolic Calculus Engine in a Terminal User Interface (TUI)](https://github.com/Quarantiine/python-benchmarks-by-mmcli), built entirely from scratch.
-* [Solving some of the hardest benchmarks from Exercism.org on the first try.](https://github.com/Quarantiine/polyglot-benchmark-mmcli/blob/main/COMPLETED_BENCHMARKS.md)
+* A [pure-Python Symbolic Calculus Engine in a Terminal User Interface (TUI)](https://github.com/Quarantiine/calculus-engine-benchmark-py), built entirely from scratch.
+* Me [Solving some of the hardest benchmarks from Exercism.org on the first try.](https://github.com/Quarantiine/polyglot-benchmark-mmcli/blob/main/COMPLETED_BENCHMARKS.md). These benchmarks are from [Exercism.org](https://exercism.org/)
 
 **[View EffortList AI](https://www.effortlist.io/about)** -
 An autonomous, offline-first Progressive Web App (PWA) designed for seamless productivity. The embedded AI, Omni, works in the background to dynamically create, prioritize, and adjust schedules and task lists with near-zero manual input—so you never have to worry about scheduling or managing a to-do list ever again. There is a lot more under the hood, so if you're interested, learn more by visiting the website above.

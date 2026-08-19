@@ -16,9 +16,6 @@ An autonomous AI agent CLI built using a wave-based, multi-agent execution archi
 **[View EffortList AI](https://www.effortlist.io/about)** -
 An autonomous, offline-first Progressive Web App (PWA) designed for seamless productivity. The embedded AI, Omni, works in the background to dynamically create, prioritize, and adjust schedules and task lists with near-zero manual input—so you never have to worry about scheduling or managing a to-do list ever again. There is a lot more under the hood, so if you're interested, learn more by visiting the website above.
 
-**Autonomous GenAI Crypto Trading Engine** -
-A twin-path execution algorithmic trading platform built with Next.js, TypeScript, and the Alpaca API, designed to parse market data and execute trades via deterministic AI pipelines. I'm currently testing this to establish a history of profitability rather than just showing that "it works."
-
 ### Future Trajectory
 
 Long-term, my goal is to bridge the gap between classical AI architectures and Quantum Software Engineering (I already have a plan in place), specifically exploring quantum ML, error-mitigated circuits, quantum simulations, drug discovery, and much more.

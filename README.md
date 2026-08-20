@@ -1,6 +1,6 @@
 # Daniel Ward
 
-**Software Engineer | AI Systems Architect | Quantum Computing Enthusiast**
+**Software Engineer | AI Systems Architect | Quantum Software Enthusiast**
 
 ### About Me
 

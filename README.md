@@ -16,6 +16,9 @@ An autonomous AI agent CLI built using a wave-based, multi-agent execution archi
 **[View EffortList AI](https://www.effortlist.io/about)** -
 An autonomous, offline-first Progressive Web App (PWA) designed for seamless productivity. The embedded AI, Omni, works in the background to dynamically create, prioritize, and adjust schedules and task lists with near-zero manual input—so you never have to worry about scheduling or managing a to-do list ever again. There is a lot more under the hood, so if you're interested, learn more by visiting the website above.
 
+**[View EffortList Notes](https://effortlist-notes.vercel.app/)** -
+EffortList Notes is a high-performance, cross-platform web application that seamlessly unites low-latency stylus inking, spatial Markdown text blocks, and zero-lock-in data portability onto a single infinite canvas to be used on any device and accessed anywhere in the world. Best used with Samsung or Apple tablets.
+
 ### Future Trajectory
 
 Long-term, my goal is to bridge the gap between classical AI architectures and Quantum Software Engineering (I already have a plan in place), specifically exploring quantum ML, error-mitigated circuits, quantum simulations, drug discovery, and much more.

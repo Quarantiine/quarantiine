@@ -19,6 +19,9 @@ An autonomous, offline-first Progressive Web App (PWA) designed for seamless pro
 **[View EffortList Notes](https://effortlist-notes.vercel.app/)** -
 EffortList Notes is a high-performance, cross-platform web application that seamlessly unites low-latency stylus inking, spatial Markdown text blocks, and zero-lock-in data portability onto a single infinite canvas to be used on any device and accessed anywhere in the world. Best used with Samsung or Apple tablets.
 
+**[View Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-sim)** -
+A tactical real-time strategy (RTS) and multiblock engineering mod for Minecraft 1.21 built on the Fabric Loader and Gradle Loom toolchain. It introduces an autonomous multi-agent minion hierarchy powered by custom behavior trees and state machines (Warriors, triage Sentinels, and blueprint Builders), 64m raycast tactical orchestration via the Command Scepter, ranked military battle formations, real-time 3D holographic blueprint capture and voxel replication, visual laser waypoint patrols, and an automated headless test suite of 530+ unit and invariant checks.
+
 ### Future Trajectory
 
 Long-term, my goal is to bridge the gap between classical AI architectures and Quantum Software Engineering (I already have a plan in place), specifically exploring quantum ML, error-mitigated circuits, quantum simulations, drug discovery, and much more.

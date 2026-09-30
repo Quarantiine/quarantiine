@@ -1,32 +1,109 @@
+<div align="center">
+
 # Daniel Ward
 
-**Software Engineer | AI Systems Architect | Quantum Software Enthusiast**
+### Software Engineer · AI Systems Architect · Quantum Enthusiast
 
-### About Me
+I build reliable AI-agent systems, developer tooling, and high-performance web applications—
+with an emphasis on direct API orchestration, deterministic verification, and practical autonomy.
 
-I am a software developer and AI application builder specializing in multi-agent architectures and complex web platforms. I focus on building reliable, autonomous systems by building direct API orchestration and strict guardrails. Beyond software engineering, I serve as the Chief Product & Technology Officer (CPTO) for the [Empowerment Through Mindset Foundation](https://www.etmfeducation.org/), a small nonprofit organization designed to empower college students to become more capable in their academic careers and beyond.
+[![Minovative Mind](https://img.shields.io/badge/Minovative_Mind-Visit_Site-111827?style=for-the-badge)](https://www.minovativemind.dev/)
+[![EffortList AI](https://img.shields.io/badge/EffortList_AI-Visit_Site-111827?style=for-the-badge)](https://www.effortlist.io/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ward-071010205)
 
-### Featured Projects
+</div>
 
-**[View Minovative Mind](https://www.minovativemind.dev/)** -
-An autonomous AI agent CLI built using a wave-based, multi-agent execution architecture with deterministic verification loops, allowing it to reliably engineer very complex software, including:
-* A [pure-Python Symbolic Calculus Engine in a Terminal User Interface (TUI)](https://github.com/Quarantiine/calculus-engine-benchmark-py), built entirely from scratch.
-* Me [Solving some of the hardest benchmarks from Exercism.org on the first try.](https://github.com/Quarantiine/polyglot-benchmark-mmcli/blob/main/COMPLETED_BENCHMARKS.md). These benchmarks are from [Exercism.org](https://exercism.org/)
+---
 
-**[View EffortList AI](https://www.effortlist.io/about)** -
-An autonomous, offline-first Progressive Web App (PWA) designed for seamless productivity. The embedded AI, Omni, works in the background to dynamically create, prioritize, and adjust schedules and task lists with near-zero manual input—so you never have to worry about scheduling or managing a to-do list ever again. There is a lot more under the hood, so if you're interested, learn more by visiting the website above.
+## About
 
-**[View EffortList Notes](https://effortlist-notes.vercel.app/)** -
-EffortList Notes is a high-performance, cross-platform web application that seamlessly unites low-latency stylus inking, spatial Markdown text blocks, and zero-lock-in data portability onto a single infinite canvas to be used on any device and accessed anywhere in the world. Best used with Samsung or Apple tablets.
+I am a software developer and AI application builder focused on multi-agent architectures,
+complex web platforms, and autonomous developer systems.
 
-**[View Minecraft Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-sim)** -
-(Built using [Minovative Mind](https://www.minovativemind.dev/)) A tactical real-time strategy (RTS) and multiblock engineering mod for Minecraft 1.21 built on the Fabric Loader and Gradle Loom toolchain. It introduces an autonomous multi-agent minion hierarchy powered by custom behavior trees and state machines (Warriors, triage Sentinels, and blueprint Builders), 64m raycast tactical orchestration via the Command Scepter, ranked military battle formations, real-time 3D holographic blueprint capture and voxel replication, visual laser waypoint patrols, and an automated headless test suite of 530+ unit and invariant checks.
+My work emphasizes **reliability over theatrics**: direct API orchestration, strict guardrails,
+deterministic verification loops, and systems designed to produce useful outcomes rather than
+just impressive demos.
 
-### Future Trajectory
+I also serve as the Chief Product & Technology Officer for the
+[Empowerment Through Mindset Foundation](https://www.etmfeducation.org/), a nonprofit focused
+on helping college students build academic capability and long-term momentum.
 
-Long-term, my goal is to bridge the gap between classical AI architectures and Quantum Software Engineering (I already have a plan in place), specifically exploring quantum ML, error-mitigated circuits, quantum simulations, drug discovery, and much more.
+## Featured Projects
 
-### Let's Connect
+### [Minovative Mind](https://www.minovativemind.dev/)
 
-* **Email:** danielward.occ@gmail.com
-* **LinkedIn:** [linkedin.com/in/daniel-ward-071010205](https://www.linkedin.com/in/daniel-ward-071010205/)
+**A verification-first autonomous AI coding-agent CLI for building, testing, and repairing software.**
+
+- Multi-agent execution with precision context, dependency-aware planning, and concurrent file coordination
+- Native test, compiler, and linter loops with sandboxed probes and diagnostic-driven repair
+- Optional Lean 4 workflows for machine-checked invariants, state transitions, and proof-oriented verification
+
+`Python` · `CLI` · `AI Agents` · `Formal Verification` · `Lean 4`
+
+[Website](https://www.minovativemind.dev/) ·
+[Symbolic Calculus Engine](https://github.com/Quarantiine/calculus-engine-benchmark-py) ·
+[Benchmark Results](https://github.com/Quarantiine/polyglot-benchmark-mmcli/blob/main/COMPLETED_BENCHMARKS.md)
+
+---
+
+### [EffortList AI](https://www.effortlist.io/about)
+
+**An offline-first AI productivity, scheduling, and academic-workflow platform.**
+
+- Hybrid scheduling combines LLM reasoning with deterministic recurrence, timezone, and calendar logic
+- Cross-device notifications, recurring-task exceptions, reversible AI actions, booking pages, and public calendars
+- Read-only LTI 1.3 LMS integrations plus a course-scoped AI Study Studio for student workflows
+
+`Next.js` · `TypeScript` · `Firebase` · `Gemini` · `LTI 1.3` · `Stripe`
+
+[Explore EffortList AI →](https://www.effortlist.io/about)
+
+---
+
+### [EffortList Notes](https://effortlist-notes.vercel.app/)
+
+**A spatial note workspace combining low-latency stylus inking, canvas-native Markdown, and portable data.**
+
+- Pressure-sensitive HTML5 Canvas inking with coalesced pointer events, Bézier smoothing, and QuickShape recognition
+- Polygon-based lasso editing for ink and text: move, resize, recolor, duplicate, and delete
+- Real-time synchronization, Cloud Storage vector persistence, and PDF, PNG, Markdown, and JSON export
+
+`Next.js` · `TypeScript` · `HTML5 Canvas` · `Zustand` · `Firebase` · `PWA`
+
+[Open EffortList Notes →](https://effortlist-notes.vercel.app/)
+
+---
+
+### [Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-simulator)
+
+**A tactical RTS and multiblock-engineering mod for Minecraft 1.21.**
+
+- Autonomous Warrior, Sentinel, Builder, and Auto minions powered by role-based AI, behavior systems, and squad logic
+- Tactical command, ranked formations, patrol routes, in-world 3D blueprint capture, and voxel reconstruction
+- Server-authoritative Fabric architecture with client rendering, networking, persistent state, and **537 automated tests**
+
+`Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
+
+[View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator)
+
+## Current Direction
+
+I am building toward the intersection of classical AI systems and quantum software engineering.
+
+Areas I am actively exploring include:
+
+- AI-powered Photoshop Alt w/ [Compositor](https://github.com/robbietilton/Compositor)
+- Neuro-Symbolic Terminal Engine (Simulated AGI Project)
+- Quantum Software Development w/ [Minovative Mind CLI](https://www.minovativemind.dev/)
+- AI-powered Video Editor w/ [Remotion](https://www.remotion.dev/)
+- AI Tutor For Students w/ [EffortList AI](https://www.effortlist.io/)
+
+## Connect
+
+- **Email:** [danielward.occ@gmail.com](mailto:danielward.occ@gmail.com)
+- **LinkedIn:** [linkedin.com/in/daniel-ward-071010205](https://www.linkedin.com/in/daniel-ward-071010205/)
+- **Organization:** [Empowerment Through Mindset Foundation](https://www.etmfeducation.org/)
+
+---
+
+<sub>Building dependable systems for increasingly complex problems.</sub>

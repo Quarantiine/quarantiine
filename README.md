@@ -103,6 +103,7 @@ Areas I am actively exploring include:
 - **Email:** [danielward.occ@gmail.com](mailto:danielward.occ@gmail.com)
 - **LinkedIn:** [linkedin.com/in/daniel-ward-071010205](https://www.linkedin.com/in/daniel-ward-071010205/)
 - **Organization:** [Empowerment Through Mindset Foundation](https://www.etmfeducation.org/)
+- **Support:** [Buy Me A Coffee](https://buymeacoffee.com/quarantiiine)
 
 ---
 

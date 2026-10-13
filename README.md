@@ -92,11 +92,10 @@ I am building toward the intersection of classical AI systems and quantum softwa
 
 Areas I am actively exploring include:
 
-- AI-powered Photoshop Alt w/ [Compositor](https://github.com/robbietilton/Compositor)
-- Neuro-Symbolic Terminal Engine (Simulated AGI Project)
-- Quantum Software Development w/ [Minovative Mind CLI](https://www.minovativemind.dev/)
-- AI-powered Video Editor w/ [Remotion](https://www.remotion.dev/)
 - AI Tutor For Students w/ [EffortList AI](https://www.effortlist.io/)
+- AI-powered Video Editor w/ [Remotion](https://www.remotion.dev/)
+- Quantum Software Development w/ [Minovative Mind CLI](https://www.minovativemind.dev/)
+- Neuro-Symbolic Terminal Engine (Simulated AGI Project)
 
 ## Connect
 

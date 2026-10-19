@@ -69,20 +69,6 @@ on helping college students build academic capability and long-term momentum.
 
 ---
 
-### [EffortList Notes](https://effortlist-notes.vercel.app/)
-
-**A spatial note workspace combining low-latency stylus inking, canvas-native Markdown, and portable data.**
-
-- Pressure-sensitive HTML5 Canvas inking with coalesced pointer events, Bézier smoothing, and QuickShape recognition
-- Polygon-based lasso editing for ink and text: move, resize, recolor, duplicate, and delete
-- Real-time synchronization, Cloud Storage vector persistence, and PDF, PNG, Markdown, and JSON export
-
-`Next.js` · `TypeScript` · `HTML5 Canvas` · `Zustand` · `Firebase` · `PWA`
-
-[Open EffortList Notes →](https://effortlist-notes.vercel.app/)
-
----
-
 ## Current Direction
 
 I am building toward the intersection of classical AI systems and quantum software engineering.

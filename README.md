@@ -8,6 +8,7 @@ I build reliable AI-agent systems, developer tooling, and high-performance web a
 with an emphasis on direct API orchestration, deterministic verification, and practical autonomy.
 
 [![Minovative Mind](https://img.shields.io/badge/Minovative_Mind-Visit_Site-111827?style=for-the-badge)](https://www.minovativemind.dev/)
+[![Sovereign AI Simulator](https://img.shields.io/badge/Sovereign AI Simulator-Visit_Site-111827?style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/sovereign-simulator)
 [![EffortList AI](https://img.shields.io/badge/EffortList_AI-Visit_Site-111827?style=for-the-badge)](https://www.effortlist.io/about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ward-071010205)
 
@@ -50,7 +51,7 @@ on helping college students build academic capability and long-term momentum.
 
 `Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
 
-[View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator)
+[View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator) ·
 [View the mod →](https://www.curseforge.com/minecraft/mc-mods/sovereign-simulator)
 
 ---

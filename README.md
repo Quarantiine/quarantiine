@@ -51,7 +51,8 @@ on helping college students build academic capability and long-term momentum.
 `Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
 
 [View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator) ·
-[View the mod →](https://www.curseforge.com/minecraft/mc-mods/sovereign-simulator)
+[View on CurseForge →](https://www.curseforge.com/minecraft/mc-mods/sovereign-simulator)
+[View on Modrinth →](https://modrinth.com/mod/sovereign-ai-simulator)
 
 ---
 

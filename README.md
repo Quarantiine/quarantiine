@@ -17,12 +17,7 @@ with an emphasis on direct API orchestration, deterministic verification, and pr
 
 ## About
 
-I am a software developer and AI application builder focused on multi-agent architectures,
-complex web platforms, and autonomous developer systems.
-
-My work emphasizes **reliability over theatrics**: direct API orchestration, strict guardrails,
-deterministic verification loops, and systems designed to produce useful outcomes rather than
-just impressive demos.
+I am a software developer focused on multi-agent architectures using GenAI.
 
 I also serve as the Chief Product & Technology Officer for the
 [Empowerment Through Mindset Foundation](https://www.etmfeducation.org/), a nonprofit focused
@@ -43,6 +38,20 @@ on helping college students build academic capability and long-term momentum.
 [Website](https://www.minovativemind.dev/) ·
 [Symbolic Calculus Engine](https://github.com/Quarantiine/calculus-engine-benchmark-py) ·
 [Benchmark Results](https://github.com/Quarantiine/polyglot-benchmark-mmcli/blob/main/COMPLETED_BENCHMARKS.md)
+
+---
+
+### [Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-simulator)
+
+**A tactical RTS and multiblock-engineering mod for Minecraft 1.21.**
+
+- Autonomous Warrior, Sentinel, Builder, and Auto minions powered by role-based AI, behavior systems, and squad logic
+- Tactical command, ranked formations, patrol routes, in-world 3D blueprint capture, and voxel reconstruction
+- Server-authoritative Fabric architecture with client rendering, networking, persistent state, and **537 automated tests**
+
+`Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
+
+[View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator)
 
 ---
 
@@ -73,18 +82,6 @@ on helping college students build academic capability and long-term momentum.
 [Open EffortList Notes →](https://effortlist-notes.vercel.app/)
 
 ---
-
-### [Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-simulator)
-
-**A tactical RTS and multiblock-engineering mod for Minecraft 1.21.**
-
-- Autonomous Warrior, Sentinel, Builder, and Auto minions powered by role-based AI, behavior systems, and squad logic
-- Tactical command, ranked formations, patrol routes, in-world 3D blueprint capture, and voxel reconstruction
-- Server-authoritative Fabric architecture with client rendering, networking, persistent state, and **537 automated tests**
-
-`Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
-
-[View the repository →](https://github.com/Quarantiine/minecraft-sovereign-simulator)
 
 ## Current Direction
 

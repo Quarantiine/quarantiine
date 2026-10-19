@@ -43,11 +43,10 @@ on helping college students build academic capability and long-term momentum.
 
 ### [Sovereign Simulator](https://github.com/Quarantiine/minecraft-sovereign-simulator)
 
-**A tactical RTS and multiblock-engineering mod for Minecraft 1.21.**
+**A tactical real-time-strategy and AI agents mod for Minecraft 1.21.**
 
 - Autonomous Warrior, Sentinel, Builder, and Auto minions powered by role-based AI, behavior systems, and squad logic
-- Tactical command, ranked formations, patrol routes, in-world 3D blueprint capture, and voxel reconstruction
-- Server-authoritative Fabric architecture with client rendering, networking, persistent state, and **537 automated tests**
+- Tactical command, ranked formations, patrol routes, in-world 3D blueprint capture, reconstruction, and more!
 
 `Java 21` · `Fabric` · `Gradle Loom` · `Entity AI` · `NBT` · `JUnit`
 
